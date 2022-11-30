@@ -4,6 +4,11 @@ public class Radio {
     private int currentVolume;
     private int currentStation;
 
+}
+
+public Radio (int stationsCount) {
+
+}
     public int  getCurrentVolume() {
         return currentVolume;
     }
@@ -21,15 +26,7 @@ public class Radio {
     }
 }
 
-public class Radio {
-  ...
 
-    public void increaseVolume() {
-        if (currentVolume < 10) {
-            currentVolume = currentVolume + 1;
-        }
-    }
-}
 
 public class Radio {
   ...
@@ -50,10 +47,8 @@ public class Radio {
 
 
 
-        }
-    }
 
-                Yury Malyshkin, [28.11.2022 22:19]
+
 public void next  () {
         if ( currentStation  < 9) {
         currentStation++;
@@ -61,13 +56,15 @@ public void next  () {
         }
         currentStation = 0;
         }
+}
 
 
-public void next  () {
-        if ( currentStation  < 9) {
-        currentStation++;
+
+public void prev () {
+        if ( currentStation  > 0) {
+        currentStation--;
         }else{
-        currentStation = 0;
+        currentStation = 9;
         }
         }
 
