@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 public class RadioTest {
     @Test
-    public void verifyNext() { // .... ;
+    public void verifyNext() {  ;
 
         Radio radio = new Radio();
         radio.setCurrentStation(5);
