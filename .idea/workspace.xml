@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a13759e-cb85-44c5-b193-c840ef333fa7" name="Changes" comment="new, mistake, fix">
+    <list default="true" id="6a13759e-cb85-44c5-b193-c840ef333fa7" name="Changes" comment="new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/oop1/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/oop1/RadioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/oop1/VolumeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/oop1/VolumeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.VolumeTest.volumeTrialOne">
+  <component name="RunManager" selected="JUnit.VolumeTest.volumeTrialTwo">
     <configuration name="RadioTest.verifyNext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled7" />
       <extension name="coverage">
@@ -104,8 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VolumeTest.volumeTrialTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.oop1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.oop1" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.oop1.VolumeTest" />
+      <option name="METHOD_NAME" value="volumeTrialTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VolumeTest.volumeTrialTwo" />
         <item itemvalue="JUnit.VolumeTest.volumeTrialOne" />
         <item itemvalue="JUnit.VolumeTest.volumeTrial" />
         <item itemvalue="JUnit.VolumeTest.volumeTest" />
@@ -143,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671389577448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new, mistake, fix">
+      <created>1671392928574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671392928574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <created>1671435132229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671435132229</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +191,8 @@
     <MESSAGE value="fix,radio" />
     <MESSAGE value="new, test" />
     <MESSAGE value="new, mistake, fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="new, mistake, fix" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

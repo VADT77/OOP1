@@ -19,7 +19,7 @@ public class VolumeTest {
         Radio radio = new Radio();
         radio.setCurrentVolume(9);
 
-        radio.increaseVolume();
+        radio.decreaseVolume();
 
         int expected = 8;
         int actual = radio.getCurrentVolume();
