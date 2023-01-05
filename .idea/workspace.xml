@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a13759e-cb85-44c5-b193-c840ef333fa7" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/netology/oop1/Radio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/oop1/RadioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/netology/oop1/VolumeTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671392928574</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new">
+      <created>1672932763166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672932763166</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,7 +177,8 @@
     <MESSAGE value="fix,radio" />
     <MESSAGE value="new, test" />
     <MESSAGE value="new, mistake, fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="new, mistake, fix" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
